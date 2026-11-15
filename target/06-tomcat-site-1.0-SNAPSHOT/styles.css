@@ -1,0 +1,34 @@
+body {
+    font: 18px system-ui;
+    background: #f1f5f9;
+    color: #172033;
+    margin: 0;
+}
+
+main {
+    max-width: 720px;
+    margin: 3rem auto;
+    padding: 2rem;
+    background: white;
+    border-radius: 12px;
+}
+
+label {
+    display: block;
+    margin: 1rem 0;
+}
+
+input, textarea {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    padding: .6rem;
+}
+
+button {
+    background: #2452a1;
+    color: white;
+    padding: .7rem 1rem;
+    border: 0;
+    border-radius: 6px;
+}
